@@ -1,3 +1,4 @@
+//write a java program to reads number from the user and print whether it is positive or negative
 import java.util.Scanner;
 
 public class Positivenegative {
@@ -18,5 +19,6 @@ public class Positivenegative {
         input.close();
     }
 }
-
+//Enter a number: 67
+//67 is positive.
 
