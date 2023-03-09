@@ -1,3 +1,4 @@
+//write a java rogram that reads in two floating points and tests whether they are same upto three decimal places
 import java.util.Scanner;
 
 public class CompareFloats {
@@ -24,3 +25,6 @@ public class CompareFloats {
         input.close();
     }
 }
+//Enter the first floating point number: 87
+Enter the second floating point number: 66
+The numbers are not the same up to three decimal places.
