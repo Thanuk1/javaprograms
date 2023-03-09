@@ -1,3 +1,4 @@
+//write a java programto solve quadratic equations
 import java.util.Scanner;
 
 public class QuadraticEquationSolver {
@@ -24,3 +25,7 @@ public class QuadraticEquationSolver {
         }
     }
 }
+Enter the coefficient of x^2: 9
+Enter the coefficient of x: 7
+Enter the constant: 4
+The quadratic equation has no real roots.
