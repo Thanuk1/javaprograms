@@ -36,3 +36,22 @@ public class ArrayMinMax
 		System.out.print("\nMinimum of the array is: " + min);
 	}
 }
+output:
+Size of Array is: 6
+Enter the elements of the array --------
+Enter the 1 element = 5
+
+Enter the 2 element = 7
+
+Enter the 3 element = 88
+
+Enter the 4 element = 63
+
+Enter the 5 element = 58
+
+Enter the 6 element = 12
+
+Entered array is ----------
+        5       7       88      63      58      12
+Maximum of the array is: 88
+Minimum of the array is: 5
