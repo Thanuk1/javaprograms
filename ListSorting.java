@@ -24,7 +24,6 @@ class NameList
             System.out.print("\nEnter the name "+(i+1) + ":  ");
             names[i] = new String(reader.next());
         }
-        // Code for sorting names
         for (int i = 0; i<num; i++)
         {
             for (int j=i+1; j<num; j++)
@@ -37,7 +36,6 @@ class NameList
                 }
             }
         }
-        // End of Sorting codes
         System.out.print("\nSorted names are ---");
         for (int i=0; i<num; i++)
         {
@@ -47,3 +45,21 @@ class NameList
     }
 
 }
+output
+Code for sorting the input name in ascending order ---
+Enter the numbers of names: 4
+
+Enter the names -----------
+Enter the name 1:  44
+
+Enter the name 2:  33
+
+Enter the name 3:  22
+
+Enter the name 4:  99
+
+Sorted names are ---
+22
+33
+44
+99
